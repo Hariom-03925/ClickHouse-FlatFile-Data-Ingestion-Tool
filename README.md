@@ -84,10 +84,7 @@ For detailed documentation, please refer to:
 │   │   ├── pages/          # Page components
 │   │   └── services/       # API services
 │   └── package.json        # NPM configuration
-├── docs/                   # Documentation
-│   ├── images/             # Screenshots and images
-│   ├── project-documentation.md  # Project documentation
-│   └── api-documentation.md      # API documentation
+
 └── README.md               # This file
 ```
 
