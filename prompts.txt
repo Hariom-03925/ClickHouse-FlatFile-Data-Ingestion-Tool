@@ -1,0 +1,28 @@
+Project Setup and Architecture
+"How to structure a Spring Boot + React project for data ingestion workflows?"
+
+"Designing REST API endpoints to support two-way data movement between ClickHouse and flat files"
+
+"How to use JWT for secure access when connecting to ClickHouse in backend code?"
+
+Backend Development
+"Creating a preview service to show sample data from ClickHouse or uploaded CSV file"
+
+"How to implement progress tracking for a background ingestion job in Spring Boot?"
+
+"Logic for dynamically building SQL JOIN queries for selected ClickHouse tables"
+
+Frontend Development
+"Creating a React component for ClickHouse connection form with validations"
+
+"How to preview the first 100 rows of an uploaded CSV file in React?"
+
+"Best approach for rendering column selection UI with checkboxes"
+
+"Adding a visual progress/status area in React UI"
+
+Dependency Configuration
+"How to configure ClickHouse JDBC driver in a Spring Boot Maven project?"
+
+"Which React libraries can help with file uploads and table previews?"
+
